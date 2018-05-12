@@ -1,0 +1,28 @@
+_repo: Herbert-HooverThe-Man-and-His-Work_29489
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kellogg, Vernon L. (Vernon Lyman)
+    birthdate: 1867
+    deathdate: 1937
+    gutenberg_agent_id: '33942'
+    url: http://www.gutenberg.org/2009/agents/33942
+description: ''
+gutenberg_issued: '2009-07-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29489'
+  lccn: '20008244'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E740'
+- !lcsh 'World War, 1914-1918 -- Food supply'
+- !lcsh 'Hoover, Herbert, 1874-1964'
+title: 'Herbert Hoover: The Man and His Work'
+url: http://www.gutenberg.org/ebooks/29489
